@@ -8,8 +8,8 @@
 This project demonstrates the use of the **RFSoC 4x2 development board** for designing and implementing a **contactless radar-based breathing monitoring system**. The work focuses on using high-speed ADCs, DACs, and programmable logic for real-time signal processing in **Neonatal Intensive Care Units (NICUs)**.
 
 ## 👨‍💻 Team Members
-- Aman Bhagat (2022eeb1152)  
-- Nakul (2022eeb1192)  
+- Nakul (2022eeb1192)
+- Aman Bhagat (2022eeb1152)    
 
 **Supervisor:** Dr. Brijesh Kumbani  
 **Institute:** Indian Institute of Technology Ropar  
